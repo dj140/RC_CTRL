@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Member From Class: ClassName=ÎÞÏßÒ£¿ØÆ÷ Member=C21
+Change Component Designator: OldDesignator=BAT NewDesignator=Pad2
+Change Component Designator: OldDesignator=GND NewDesignator=Pad1
+Added Pin To Net: NetName=3V3 Pin=U4-1

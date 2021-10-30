@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=BZ1 Old Footprint=BUZ-SMD_4P-L7.5-W7.5-P7.59-BR New Footprint=BUZZ-DIP
+Added Component: Designator=C25(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(三极管_SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "参数"; Value = "N-MOSFET,DFN5*6,AON6512,30V,150A"; VariantName = "[No Variations]"
+Added Component: Designator=R25(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=RST Pin=C25-2
+Added Pin To Net: NetName=BUZZ Pin=Q2-1
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=RST Pin=R25-1
+Added Pin To Net: NetName=3V3 Pin=R25-2
+Added Member To Class: ClassName=无线遥控器 Member=Component C13 105
+Added Member To Class: ClassName=无线遥控器 Member=Component C25 104
+Added Member To Class: ClassName=无线遥控器 Member=Component Q2 AON6512
+Added Member To Class: ClassName=无线遥控器 Member=Component R25 10K
+Added Member To Class: ClassName=无线遥控器 Member=Component U6 IPS-LCD

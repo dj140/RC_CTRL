@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : D:\For sell\ÎÞÏßÒ£¿ØÆ÷_Ö±²å°æ\Receivers\Hardwork\RX_PCB_Project\RX_PCB.PcbDoc
+Date     : 2020/10/9
+Time     : 19:25:36
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=80%) (All)
+   Violation between SMD Neck-Down Constraint: Between Pad U4-2(133.196mil,498mil) on Bottom Layer And Track (120mil,498mil)(133.196mil,498mil) on Bottom Layer Relative Track Width: 101.60%
+   Violation between SMD Neck-Down Constraint: Between Pad U4-3(133.196mil,517.684mil) on Bottom Layer And Track (92.684mil,517.684mil)(133.196mil,517.684mil) on Bottom Layer Relative Track Width: 81.28%
+Rule Violations :2
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=5mil) (Max=100mil) (IsVia)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (Disabled)(All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Time Elapsed        : 00:00:01

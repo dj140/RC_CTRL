@@ -1,0 +1,9 @@
+Added Component: Designator=C7(µçÈÝ_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "²ÎÊý"; Value = "Cap,0805,X7R,104K,50V,125C,¡À10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Member To Class: ClassName=MiniCar Member=Component C7 0.1uF
+Added Room: Name=MiniCar

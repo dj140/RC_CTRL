@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RX_PCB.PcbDoc   2020/10/9  20:20:23
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : RX_PCB-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : RX_PCB-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             42        PTH        5.13inch (130.30mm)
+T2      16mil (0.4mm)                                             Slot              2         PTH        0.62inch (15.72mm)
+T3      20mil (0.5mm)                                             Round             2         PTH        0.19inch (4.85mm)
+T4      39mil (1mm)                                               Round             6         PTH        0.64inch (16.14mm)
+T5      39mil (1mm)                                               Slot              2         PTH        1.05inch (26.67mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              54
+
+Total Processing Time (hh:mm:ss) : 00:00:00

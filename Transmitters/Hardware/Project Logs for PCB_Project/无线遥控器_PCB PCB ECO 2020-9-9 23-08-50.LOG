@@ -1,0 +1,61 @@
+Added Component: Designator=C13(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(三极管_SOT-23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Footprint"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Model"; Value = "S8050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Triode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Triode,NPN,S8050,SOT-23,500mA,40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Added Component: Designator=R21(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Accuracy"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Drift"; Value = "100ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Res"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Res,0805,10R,1%,1/8W,100ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R22(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Accuracy"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Drift"; Value = "100ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Res"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Res,0805,1K,1%,1/8W,100ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Accuracy"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Drift"; Value = "100ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Footprint"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Res"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Res,0805,20K,1%,1/8W,100ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Value"; Value = "20K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=3V3 Pin=C13-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_2 Pin=R21-1
+Added Pin To Net: NetName=LCD_LEDK Pin=R21-2
+Added Pin To Net: NetName=LCD-BLK Pin=R22-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R22-2
+Added Pin To Net: NetName=3V3 Pin=R23-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R23-2
+Added Member To Class: ClassName=无线遥控器 Member=Component C13 105
+Added Member To Class: ClassName=无线遥控器 Member=Component Q1 S8050
+Added Member To Class: ClassName=无线遥控器 Member=Component R21 10R
+Added Member To Class: ClassName=无线遥控器 Member=Component R22 1K
+Added Member To Class: ClassName=无线遥控器 Member=Component R23 20K

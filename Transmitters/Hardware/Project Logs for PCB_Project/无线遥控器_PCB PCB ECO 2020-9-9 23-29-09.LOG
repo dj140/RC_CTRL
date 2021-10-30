@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=R-3V3 Pin=C4-1
+Removed Pin From Net: NetName=R-3V3 Pin=C5-1
+Removed Pin From Net: NetName=R-3V3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=R-3V3 Pin=C15-2
+Removed Pin From Net: NetName=R +5V Pin=R1-2
+Removed Pin From Net: NetName=R-3V3 Pin=R2-1
+Removed Pin From Net: NetName=R-3V3 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=R-3V3 Pin=U1-7
+Removed Pin From Net: NetName=R-3V3 Pin=U1-7
+Removed Pin From Net: NetName=R-3V3 Pin=U1-7
+Removed Pin From Net: NetName=NetL1_2 Pin=U1-9
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=NetL1_1 Pin=U1-11
+Removed Pin From Net: NetName=R +5V Pin=U1-12
+Removed Pin From Net: NetName=R +5V Pin=U1-12
+Removed Pin From Net: NetName=R +5V Pin=U1-12
+Removed Pin From Net: NetName=BT_POWER Pin=U4-3
+Removed Pin From Net: NetName=BT_KEY Pin=U4-4
+Removed Pin From Net: NetName=BT_RXD Pin=U4-32
+Removed Pin From Net: NetName=R-3V3 Pin=U7-16
+Removed Pin From Net: NetName=R-3V3 Pin=U8-7
+Removed Pin From Net: NetName=R-3V3 Pin=U8-10
+Change Component Footprint: Designator=U1 Old Footprint=VQFN-15-HR New Footprint=TPS63020
+Change Component Comment : Designator=R1 Old Comment=10K New Comment=1M
+Change Component Comment : Designator=R3 Old Comment=100k New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=150K New Comment=10K
+Change Component Comment : Designator=R2 Old Comment=470K New Comment=180K
+Change Component Comment : Designator=U1 Old Comment=TPS63070 New Comment=TPS63020
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "180K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AB/SMC; 2 C-Bend Leads; Body 7.9 x 5.9 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Pin To Net: NetName=R +5V Pin=D1-A
+Added Pin To Net: NetName=BT_POWER Pin=D1-K
+Added Pin To Net: NetName=R +5V Pin=Pad1-1
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=BT_KEY Pin=R1-2
+Added Pin To Net: NetName=BT_KEY Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=MCU-SDA Pin=R3-1
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=MCU-SCL Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=BT_RXD Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=BT_KEY Pin=U1-3
+Added Pin To Net: NetName=3V3 Pin=U1-4
+Added Pin To Net: NetName=3V3 Pin=U1-5
+Added Pin To Net: NetName=NetL1_2 Pin=U1-6
+Added Pin To Net: NetName=NetL1_2 Pin=U1-7
+Added Pin To Net: NetName=NetL1_1 Pin=U1-8
+Added Pin To Net: NetName=NetL1_1 Pin=U1-9
+Added Pin To Net: NetName=R +5V Pin=U1-10
+Added Pin To Net: NetName=R +5V Pin=U1-11
+Added Pin To Net: NetName=BT_POWER Pin=U1-12
+Added Pin To Net: NetName=R +5V Pin=U1-13
+Added Pin To Net: NetName=3V3 Pin=U4-22
+Added Pin To Net: NetName=3V3 Pin=U4-49
+Added Pin To Net: NetName=HC_PL Pin=U7-1
+Added Pin To Net: NetName=HC_CP Pin=U7-2
+Added Pin To Net: NetName=HC2_Q7 Pin=U7-7
+Added Pin To Net: NetName=3V3 Pin=U7-16
+Added Pin To Net: NetName=3V3 Pin=U8-7
+Added Pin To Net: NetName=MCU-RX Pin=U8-8
+Added Pin To Net: NetName=MCU-TX Pin=U8-9
+Added Pin To Net: NetName=3V3 Pin=U8-10
+Change Net Name : Old Net Name=BT_KEY New Net Name=NetR1_2
+Change Net Name : Old Net Name=BT_POWER New Net Name=NetD1_K
+Change Net Name : Old Net Name=BT_RXD New Net Name=NetC16_2
+Change Net Name : Old Net Name=R +5V New Net Name=BAT
+Added Member To Class: ClassName=无线遥控器 Member=Component C13 105
+Added Member To Class: ClassName=无线遥控器 Member=Component D1 1n4148
+Added Member To Class: ClassName=无线遥控器 Member=Component U6 IPS-LCD

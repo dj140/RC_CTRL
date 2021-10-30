@@ -1,0 +1,24 @@
+Added Component: Designator=BZ1(BUZ-SMD_4P-L7.5-W7.5-P7.59-BR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C21(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=R24(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=BZ1-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=VCAP_1 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=BUZZ Pin=R24-2
+Added Pin To Net: NetName=NetBZ1_2 Pin=BZ1-2
+Added Net: Name=NetBZ1_2
+Added Member To Class: ClassName=无线遥控器 Member=Component BZ1 蜂鸣器
+Added Member To Class: ClassName=无线遥控器 Member=Component C13 105
+Added Member To Class: ClassName=无线遥控器 Member=Component C21 4.7uF
+Added Member To Class: ClassName=无线遥控器 Member=Component R24 10K
+Added Member To Class: ClassName=无线遥控器 Member=Component U6 IPS-LCD

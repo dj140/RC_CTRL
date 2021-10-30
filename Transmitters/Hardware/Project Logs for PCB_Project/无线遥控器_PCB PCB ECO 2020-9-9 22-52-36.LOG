@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Change Component Designator: OldDesignator=S? NewDesignator=S3
+Change Component Designator: OldDesignator=S? NewDesignator=S4
+Added Member To Class: ClassName=无线遥控器 Member=Component S1 三段开关
+Added Member To Class: ClassName=无线遥控器 Member=Component S2 三段开关
+Added Member To Class: ClassName=无线遥控器 Member=Component S3 三段开关

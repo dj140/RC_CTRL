@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MiniCar.PrjPcb]
+   Generated File[MiniCar-Plated.TXT]
+   Generated File[MiniCar.LDP]
+   Generated File[MiniCar.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:06:50 On 2020/12/8

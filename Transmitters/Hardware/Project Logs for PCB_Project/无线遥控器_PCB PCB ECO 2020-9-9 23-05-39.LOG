@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Member From Class: ClassName=无线遥控器 Member=C13
+Removed Member From Class: ClassName=无线遥控器 Member=U6
+Added Pin To Net: NetName=USB-VCC Pin=U4-24
+Added Pin To Net: NetName=USB-VCC Pin=U4-47
+Added Net: Name=LCD_LEDK
+Added Net: Name=NetQ?_1
+Added Net: Name=NetQ?_2

@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=BAT Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=BAT Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3V3 Pin=C10-2
+Removed Pin From Net: NetName=BAT Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=3V3 Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=BAT Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=3V3 Pin=U4-8
+Removed Pin From Net: NetName=GND Pin=U4-9
+Removed Member From Class: ClassName=MiniCar Member=C7
+Removed Member From Class: ClassName=MiniCar Member=C8
+Removed Member From Class: ClassName=MiniCar Member=C9
+Removed Member From Class: ClassName=MiniCar Member=C10
+Removed Member From Class: ClassName=MiniCar Member=M1+
+Removed Member From Class: ClassName=MiniCar Member=M1-
+Removed Member From Class: ClassName=MiniCar Member=M2+
+Removed Member From Class: ClassName=MiniCar Member=M2-
+Removed Member From Class: ClassName=MiniCar Member=U3
+Removed Member From Class: ClassName=MiniCar Member=U4
+Change Component Comment : Designator=GND Old Comment=GND New Comment=GND1
+Change Component Designator: OldDesignator=F031 NewDesignator=U1
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=GND NewDesignator=GND2
+Change Component Designator: OldDesignator=NRF24L01 NewDesignator=NRF1
+Change Component Designator: OldDesignator=RX NewDesignator=PA3
+Change Component Designator: OldDesignator=TX NewDesignator=PA2
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "参数"; Value = "LED,0603,Red"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "C"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "1R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "R"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Remarks"; Value = "3V3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Specification"; Value = "Pad,Test,3V3"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Remarks"; Value = "BAT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Specification"; Value = "Pad,Test,BAT"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Remarks"; Value = "CLK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Specification"; Value = "Pad,Test,CLK"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Remarks"; Value = "DIO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Specification"; Value = "Pad,Test,DIO"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Remarks"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Specification"; Value = "Pad,Test,GND"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Remarks"; Value = "GND1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Specification"; Value = "Pad,Test,GND1"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Remarks"; Value = "PA3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Specification"; Value = "Pad,Test,PA3"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Remarks"; Value = "PA2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "_Specification"; Value = "Pad,Test,PA2"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MiniCar Member=Component GND2 GND
+Added Room: Name=MiniCar

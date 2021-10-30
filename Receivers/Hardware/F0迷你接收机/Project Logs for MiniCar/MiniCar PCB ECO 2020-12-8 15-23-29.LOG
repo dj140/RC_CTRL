@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BAT Pin=BAT-1
+Removed Pin From Net: NetName=GND Pin=GND1-1
+Removed Member From Class: ClassName=MiniCar Member=BAT
+Removed Member From Class: ClassName=MiniCar Member=GND1
+Added Member To Class: ClassName=MiniCar Member=Component NRF1 NRF_1

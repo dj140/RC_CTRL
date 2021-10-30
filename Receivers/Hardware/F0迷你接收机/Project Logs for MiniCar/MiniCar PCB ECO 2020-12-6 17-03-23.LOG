@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=LED Pin=U1-6
+Removed Pin From Net: NetName=BAT_DET Pin=U1-7
+Removed Member From Class: ClassName=MiniCar Member=PA2
+Removed Member From Class: ClassName=MiniCar Member=PA3
+Added Component: Designator=CN1(CONN-SMD_10P-P1.00_SM10B-SRSS-TB(LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SM10B-SRSS-TB (LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C160409"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SM10B-SRSS-TB (LF)(SN)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT Pin=CN1-9
+Added Pin To Net: NetName=GND Pin=CN1-10
+Added Pin To Net: NetName=GND Pin=CN1-11
+Added Pin To Net: NetName=GND Pin=CN1-12
+Added Pin To Net: NetName=LED Pin=U1-10
+Added Pin To Net: NetName=BAT_DET Pin=U1-11
+Added Pin To Net: NetName=CH1 Pin=CN1-1
+Added Pin To Net: NetName=CH1 Pin=U1-6
+Added Net: Name=CH1
+Added Pin To Net: NetName=CH2 Pin=CN1-2
+Added Pin To Net: NetName=CH2 Pin=U1-7
+Added Net: Name=CH2
+Added Pin To Net: NetName=CH3 Pin=CN1-3
+Added Pin To Net: NetName=CH3 Pin=U1-8
+Added Net: Name=CH3
+Added Pin To Net: NetName=CH4 Pin=CN1-4
+Added Pin To Net: NetName=CH4 Pin=U1-9
+Added Net: Name=CH4
+Added Pin To Net: NetName=CH5 Pin=CN1-5
+Added Pin To Net: NetName=CH5 Pin=U1-12
+Added Net: Name=CH5
+Added Pin To Net: NetName=CH6 Pin=CN1-6
+Added Pin To Net: NetName=CH6 Pin=U1-13
+Added Net: Name=CH6
+Added Pin To Net: NetName=PPM Pin=CN1-8
+Added Pin To Net: NetName=PPM Pin=U1-14
+Added Net: Name=PPM
+Added Pin To Net: NetName=SBUS Pin=CN1-7
+Added Pin To Net: NetName=SBUS Pin=U1-19
+Added Net: Name=SBUS
+Added Member To Class: ClassName=MiniCar Member=Component CN1 SM10B-SRSS-TB (LF)(SN)
+Added Room: Name=MiniCar

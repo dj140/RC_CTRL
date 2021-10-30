@@ -1,0 +1,202 @@
+Added Component: Designator=1(Pad_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Remarks"; Value = "3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Pad,Test,3V3"; VariantName = "[No Variations]"
+Added Component: Designator=BAT1(Pad_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Remarks"; Value = "BAT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Pad,Test,BAT"; VariantName = "[No Variations]"
+Added Component: Designator=C1(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C2(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C3(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C4(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C5(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C6(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=CLK1(Pad_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Remarks"; Value = "CLK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Pad,Test,CLK"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "参数"; Value = "LED,0603,Red"; VariantName = "[No Variations]"
+Added Component: Designator=DIO1(Pad_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Remarks"; Value = "DIO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Pad,Test,DIO"; VariantName = "[No Variations]"
+Added Component: Designator=GND1(Pad_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Remarks"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Pad,Test,GND"; VariantName = "[No Variations]"
+Added Component: Designator=GND2(Pad_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Remarks"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Pad,Test,GND"; VariantName = "[No Variations]"
+Added Component: Designator=NRF1(NRF-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PA1(Pad_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Remarks"; Value = "PA2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Pad,Test,PA2"; VariantName = "[No Variations]"
+Added Component: Designator=PA2(Pad_B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "_Comma"; Value = ","; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Funcyusa"; Value = "Test"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Name"; Value = "Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Remarks"; Value = "PA3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "_Specification"; Value = "Pad,Test,PA3"; VariantName = "[No Variations]"
+Added Component: Designator=R1(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Component: Designator=R2(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Component: Designator=R3(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R"; Value = "1R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Component: Designator=R4(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Component: Designator=R5(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ST主控_UFQFPN28)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(稳压芯片_SOT-89)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=1-1
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=NRF1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=U1-5
+Added Pin To Net: NetName=3V3 Pin=U1-17
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Net: Name=3V3
+Added Pin To Net: NetName=BAT_DET Pin=R2-1
+Added Pin To Net: NetName=BAT_DET Pin=R4-2
+Added Pin To Net: NetName=BAT_DET Pin=U1-7
+Added Net: Name=BAT_DET
+Added Pin To Net: NetName=BAT Pin=BAT1-1
+Added Pin To Net: NetName=BAT Pin=R2-2
+Added Pin To Net: NetName=BAT Pin=R3-1
+Added Net: Name=BAT
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=GND1-1
+Added Pin To Net: NetName=GND Pin=GND2-1
+Added Pin To Net: NetName=GND Pin=NRF1-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED Pin=R5-1
+Added Pin To Net: NetName=LED Pin=U1-6
+Added Net: Name=LED
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R3-2
+Added Pin To Net: NetName=NetC2_2 Pin=U2-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R5-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetPA1_1 Pin=PA1-1
+Added Pin To Net: NetName=NetPA1_1 Pin=U1-8
+Added Net: Name=NetPA1_1
+Added Pin To Net: NetName=NetPA2_1 Pin=PA2-1
+Added Pin To Net: NetName=NetPA2_1 Pin=U1-9
+Added Net: Name=NetPA2_1
+Added Pin To Net: NetName=NRF_CE Pin=NRF1-3
+Added Pin To Net: NetName=NRF_CE Pin=U1-28
+Added Net: Name=NRF_CE
+Added Pin To Net: NetName=NRF_CSN Pin=NRF1-4
+Added Pin To Net: NetName=NRF_CSN Pin=U1-27
+Added Net: Name=NRF_CSN
+Added Pin To Net: NetName=NRF_IRQ Pin=NRF1-8
+Added Pin To Net: NetName=NRF_IRQ Pin=U1-23
+Added Net: Name=NRF_IRQ
+Added Pin To Net: NetName=NRF_MISO Pin=NRF1-7
+Added Pin To Net: NetName=NRF_MISO Pin=U1-24
+Added Net: Name=NRF_MISO
+Added Pin To Net: NetName=NRF_MOSI Pin=NRF1-6
+Added Pin To Net: NetName=NRF_MOSI Pin=U1-25
+Added Net: Name=NRF_MOSI
+Added Pin To Net: NetName=NRF_SCK Pin=NRF1-5
+Added Pin To Net: NetName=NRF_SCK Pin=U1-26
+Added Net: Name=NRF_SCK
+Added Pin To Net: NetName=NRST Pin=C1-2
+Added Pin To Net: NetName=NRST Pin=R1-1
+Added Pin To Net: NetName=NRST Pin=U1-4
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWCLK Pin=CLK1-1
+Added Pin To Net: NetName=SWCLK Pin=U1-22
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=DIO1-1
+Added Pin To Net: NetName=SWDIO Pin=U1-21
+Added Net: Name=SWDIO
+Added Class: Name=Universal receiver
+Added Room: Name=Universal receiver

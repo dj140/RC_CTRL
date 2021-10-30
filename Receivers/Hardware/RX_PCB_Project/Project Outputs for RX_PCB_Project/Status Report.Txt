@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RX_PCB_Project.PrjPcb]
+   Generated File[RX_PCB-RoundHoles-Plated.TXT]
+   Generated File[RX_PCB-SlotHoles-Plated.TXT]
+   Generated File[RX_PCB.LDP]
+   Generated File[RX_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:20:23 On 2020/10/9

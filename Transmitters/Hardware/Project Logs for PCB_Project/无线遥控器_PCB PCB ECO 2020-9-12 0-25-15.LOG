@@ -1,0 +1,8 @@
+Added Component: Designator=R28(电阻_R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "P"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "R"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Res,0805,0R,±1%,1/8W,100ppm,155C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_A Pin=R28-1
+Added Pin To Net: NetName=USB_VCC Pin=R28-2
+Added Member To Class: ClassName=无线遥控器 Member=Component R28 2k

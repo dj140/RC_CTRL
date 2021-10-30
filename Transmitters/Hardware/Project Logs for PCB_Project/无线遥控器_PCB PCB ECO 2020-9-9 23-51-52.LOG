@@ -1,0 +1,38 @@
+Added Component: Designator=C22(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C23(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C24(电容_C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "C"; Value = "105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "U"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "参数"; Value = "Cap,0805,X7R,104K,50V,125C,±10%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=JSR-X Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=JSR-Y Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=3V3 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=JSL-Y Pin=J1-2
+Added Pin To Net: NetName=3V3 Pin=J1-3
+Added Pin To Net: NetName=3V3 Pin=J1-4
+Added Pin To Net: NetName=JSL-X Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=JSR-Y Pin=J2-2
+Added Pin To Net: NetName=3V3 Pin=J2-3
+Added Pin To Net: NetName=3V3 Pin=J2-4
+Added Pin To Net: NetName=JSR-X Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Member To Class: ClassName=无线遥控器 Member=Component C13 105
+Added Member To Class: ClassName=无线遥控器 Member=Component C22 104
+Added Member To Class: ClassName=无线遥控器 Member=Component C23 104
+Added Member To Class: ClassName=无线遥控器 Member=Component C24 105
+Added Member To Class: ClassName=无线遥控器 Member=Component U6 IPS-LCD

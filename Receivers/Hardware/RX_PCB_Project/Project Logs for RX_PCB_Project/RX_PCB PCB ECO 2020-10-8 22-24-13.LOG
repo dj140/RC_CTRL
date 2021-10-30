@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C9 Old Footprint=电容_C1206 New Footprint=电容_C0603
+Change Component Footprint: Designator=C13 Old Footprint=电容_C1206 New Footprint=电容_C0603
+Added Room: Name=RX

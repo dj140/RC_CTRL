@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V Pin=5V-1
+Removed Pin From Net: NetName=5V Pin=P1-1
+Removed Pin From Net: NetName=5V Pin=R8-2
+Removed Pin From Net: NetName=5V Pin=R9-2
+Added Pin To Net: NetName=BAT Pin=5V-1
+Added Pin To Net: NetName=BAT Pin=P1-1
+Added Pin To Net: NetName=BAT Pin=R8-2
+Added Pin To Net: NetName=BAT Pin=R9-2
+Change Net Name : Old Net Name=5V New Net Name=USB_5V
+Change Net Name : Old Net Name=BAT New Net Name=5V
